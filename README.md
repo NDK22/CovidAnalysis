@@ -77,4 +77,4 @@ This project showcases the end-to-end process of data preparation, transformatio
 
 ### Dashboard Snapshot
 
-![Dashboard Snapshot](<Path to Your Dashboard Snapshot Image>)
+![Dashboard Snapshot](https://github.com/NDK22/CovidAnalysis/blob/main/Dashboard%201.png)
