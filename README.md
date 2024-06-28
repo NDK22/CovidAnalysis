@@ -68,7 +68,7 @@ This project involves creating a comprehensive COVID-19 dashboard using Tableau 
 - **Data Connection:** Directly connecting Tableau to a SQL database for real-time data updates.
 - **Dashboard Design:** Combining multiple visualizations into a single, cohesive dashboard.
 
-[Link to Project 2 Tableau Dashboard](https://public.tableau.com/app/profile/nikhil.das.karavatt/viz/Covid_17194575858990/Dashboard1?publish=yes)
+[Link to Tableau Dashboard](https://public.tableau.com/app/profile/nikhil.das.karavatt/viz/Covid_17194575858990/Dashboard1?publish=yes)
 
 
 ## Conclusion
